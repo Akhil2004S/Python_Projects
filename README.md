@@ -12,7 +12,7 @@ BLOG:
   It is personal blog which consists of articles of my interest. Users can register in that website .
   Registered Users will be able to comment on the post.
   As an admin I will be able to create new posts and delete the posts.
-  The user details and admin details are stored in a database using FLask=SQLAlchemy.
+  The user details and admin details are stored in a database using FLask-SQLAlchemy.
   The passwords are protected using Hashing Technique.
   This consists of all the HTML files , Bootstrap for CSS and the Flask program.
 
